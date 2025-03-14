@@ -5,19 +5,19 @@ If you want to cherry-pick a commit from a different repository, follow these st
 ### 1. Add the remote repository:
 
 ```bash
-git remote add student-hub https://github.com/MrImmortal09/student-hub.git
+git remote add foss-weekend https://github.com/MrImmortal09/FOSS-Weekend-2024-Leaderboard.git
 ```
 
 ### 2. Fetch the changes:
 
 ```bash
-git fetch student-hub
+git fetch foss-weekend
 ```
 
 ### 3. Cherry-pick the commit:
 
 ```bash
-git cherry-pick a8633b1df549c983d294e3e2572f294568b19f87
+git cherry-pick 6e956da599182e604a284d5af7e69632a0db2b6f
 ```
 
 ### 4. Push the changes (if needed):
@@ -33,4 +33,3 @@ git cherry-pick --continue
 ```
 
 Now your commit is applied to your repo! 🚀
-
