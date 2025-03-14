@@ -9,12 +9,3 @@ assignees: []
 ## Description
 <!-- Describe the testing issue or request -->
 
-## Key Points
-
--
-
-## Technology
-<!-- Specify any testing frameworks or tools required -->
-
-## Note
-<!-- Additional notes or context -->
