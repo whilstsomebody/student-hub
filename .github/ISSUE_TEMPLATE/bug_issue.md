@@ -9,12 +9,3 @@ assignees: []
 ## Description
 <!-- Provide a detailed description of the bug -->
 
-## Key Points
-
--
-
-## Technology
-<!-- Include environment details, OS, browser, etc. if applicable -->
-
-## Note
-<!-- Additional notes or context -->
